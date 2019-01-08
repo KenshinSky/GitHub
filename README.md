@@ -1,5 +1,5 @@
 
-## **[GITとは](https://ja.wikipedia.org/wiki/Git)** ##
+## ✨ **[GITとは](https://ja.wikipedia.org/wiki/Git)** ##
  > [Git（ギット）](https://ja.wikipedia.org/wiki/Git)は、プログラムのソースコードなどの変更履歴を記録・追跡するための分散型バージョン管理システムである。
 =======
 ## **GITとは** ##
